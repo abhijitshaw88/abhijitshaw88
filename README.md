@@ -20,13 +20,13 @@
 
 ## 🌱 Current Learning  
 - Deepening knowledge of **Go modules, concurrency, microservices**  
-- Exploring **Quantization, RAG, LLMs, and AI-powered systems**
+- Exploring **LLMs, and AI-powered systems**
 
 ---
 
 ## 💡 Ask me about  
 - React, Vue, TypeScript, TailwindCSS  
-- Backend with Python, FastAPI, Go  
+- Backend with Java, Spring boot, Go  
 - System design, API design, architecture  
 - DevOps, CI/CD, Docker, Kubernetes  
 
@@ -34,7 +34,6 @@
 
 ## 📫 How to reach me  
 - Email: `abhijitshaw88@gmail.com`  
-- LinkedIn: [linkedin.com/in/abhijitshaw88](https://linkedin.com/in/abhijitshaw88)  
 
 ---
 
@@ -43,7 +42,7 @@ Here are the key languages & tools I use:
 
 | Frontend | Backend | DevOps & Others |
 |----------|---------|-----------------|
-| React, Next.js, Vue | Python, FastAPI, Go | Docker, Kubernetes, AWS, Git |
+| React, Angular | Java, Go | Docker, Kubernetes, AWS, Git |
 
 <img align="left" alt="React" width="30px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" />
 <img align="left" alt="Vue" width="30px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original.svg" />
